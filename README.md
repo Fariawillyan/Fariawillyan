@@ -1,4 +1,4 @@
-- 👋 Olá. Tenho 30 anos, sou de MG e atualmente estou finalizando o curso de Análise e desenvolvimento de sistemas.
+- 👋 Olá. Tenho 30 anos, sou de MG e atualmente estou finalizando o curso de Análise e desenvolvimento de sistemas na UNINTER.
 Tenho Conhecimento em inglês do básico ao intermediário e facilidade em aprender novas tecnologias.
 
 
