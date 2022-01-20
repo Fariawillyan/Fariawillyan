@@ -2,11 +2,11 @@
 
 - 👀 Atualmente procuro um estágio ou vaga junior para aperfeiçoar meu desenvolvimento profissional e pessoal.
   
-- 🌱 Estou aprendendo Java nos cursos da Alura, para se tornar um FullStack e conhecer novas tecnologias mais utilizadas. Sempre em constante evolução!
+- 🌱 Estou aprendendo Java nos cursos da Alura, para me tornar um FullStack e conhecer novas tecnologias mais utilizadas. Sempre em constante evolução!
   
 - 💞️ Pretendo em breve colaborar com a comunidade para tornar a vida das pessoas menos problemáticas através de softwares.
   
-- 📫 Gostaria de esclarecer dúvidas através do meu contato. Contatos através do likedin ou watsapp.
+- 📫 Gostaria de esclarecer dúvidas através do meu contato. Contatos através do LikedIn ou whatsApp.
   
 - :pray: Deus nos abençoe !
 <p align="center">
