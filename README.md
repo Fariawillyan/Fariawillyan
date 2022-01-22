@@ -14,8 +14,8 @@
 
 
 <a href="https://github.com/Fariawillyan/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Fariawillyan&show_icons=true&theme=highcontrast" />
-  <img align="Right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fariawillyan&layout=compact&theme=highcontrast" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fariawillyan&show_icons=true&theme=highcontrast" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fariawillyan&layout=compact&theme=highcontrast" />
 </a>
 
 
