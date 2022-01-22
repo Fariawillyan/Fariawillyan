@@ -11,8 +11,8 @@
   
 - 📫 Gostaria de esclarecer dúvidas através do meu contato. Contatos através do LikedIn ou whatsApp.
 <a href="https://github.com/Fariawillyan/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fariawillyan&show_icons=true&theme=highcontrast" align="left" height="450" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fariawillyan&layout=compact&theme=highcontrast" align="right" height="450" width="450"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fariawillyan&show_icons=true&theme=highcontrast" align="left" height="300" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fariawillyan&layout=compact&theme=highcontrast" align="right" height="300" width="450" />
 </a>
 
 
