@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="https://j.gifs.com/v1jQOo.gif" />
-</p>
 
 
 - 👋 Olá. Tenho 30 anos, sou de MG e atualmente estou finalizando o curso de Análise e desenvolvimento de sistemas na UNINTER. Tenho Conhecimento em inglês intermediário e facilidade em aprender novas tecnologias.
@@ -13,8 +10,12 @@
 - 💞️ Pretendo em breve colaborar com a comunidade para tornar a vida das pessoas menos problemáticas através de softwares.
   
 - 📫 Gostaria de esclarecer dúvidas através do meu contato. Contatos através do LikedIn ou whatsApp.
-- ![FariaStats](https://github-readme-stats.vercel.app/api?username=Fariawillyan&show_icons=true&theme=highcontrast) [![Top_linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Fariawillyan&layout=compact&theme=highcontrast)](https://github.com/Fariawillyan/github-readme-stats)
-  
+![FariaStats](https://github-readme-stats.vercel.app/api?username=Fariawillyan&show_icons=true&theme=highcontrast)[![Top_linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Fariawillyan&layout=compact&theme=highcontrast)](https://github.com/Fariawillyan/github-readme-stats)
+
+<p align="center">
+  <img src="https://j.gifs.com/v1jQOo.gif" />
+</p>
+
 
 
 
