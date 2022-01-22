@@ -10,11 +10,14 @@
 - 💞️ Pretendo em breve colaborar com a comunidade para tornar a vida das pessoas menos problemáticas através de softwares.
   
 - 📫 Gostaria de esclarecer dúvidas através do meu contato. Contatos através do LikedIn ou whatsApp.
-![FariaStats](https://github-readme-stats.vercel.app/api?username=Fariawillyan&show_icons=true&theme=highcontrast)[![Top_linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Fariawillyan&layout=compact&theme=highcontrast)](https://github.com/Fariawillyan/github-readme-stats)
 
-<p align="center">
-  <img src="https://j.gifs.com/v1jQOo.gif" />
-</p>
+
+
+<a href="https://github.com/Fariawillyan/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Fariawillyan&show_icons=true&theme=highcontrast" />
+  <img align="Right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fariawillyan&layout=compact&theme=highcontrast" />
+</a>
+
 
 
 
