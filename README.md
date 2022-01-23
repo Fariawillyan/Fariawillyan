@@ -13,7 +13,7 @@
 <a target="_blank" href="mailto:fariawillyan@gmail.com">
   <img align="right" alt="Gmail" width="22px" src="https://img.icons8.com/color/48/000000/gmail-login.png"/>
 </a>
- _____________________________________________________________________________________________________________________________________________</br>
+
                                                                                                                
 - 👋 Olá. Tenho 30 anos, sou de MG e atualmente estou finalizando o curso de Análise e desenvolvimento de sistemas na UNINTER. Tenho Conhecimento em inglês intermediário e facilidade em aprender novas tecnologias.
 
