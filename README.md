@@ -23,7 +23,7 @@
   
 - 💞️ Pretendo em breve colaborar com a comunidade para tornar a vida das pessoas menos problemáticas através de softwares.
   
-- 📫 Gostaria de esclarecer dúvidas através do meu contato. Contatos através do LikedIn ou whatsApp.
+- 📫 Gostaria de esclarecer dúvidas através do meu contato. Contatos através do LinkedIn ou whatsApp.
 ____________________________________________________________________________________________________________________________________________
 
 ![faria Git Stats](https://github-readme-stats.vercel.app/api?username=fariawillyan&show_icons=true&theme=highcontrast)
