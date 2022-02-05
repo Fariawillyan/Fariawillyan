@@ -15,15 +15,15 @@
 </a>
 
                                                                                                                
-- 👋 Olá. Tudo bem? Atualmente estou finalizando o curso de Análise e desenvolvimento de sistemas na UNINTER. Possuo Conhecimento em inglês intermediário e facilidade em aprender novas tecnologias.
+- 👋 Olá. Tudo bem? Atualmente estou finalizando o curso de Análise e desenvolvimento de sistemas na UNINTER. Possuo Conhecimento em inglês e facilidade em aprender novas tecnologias.
 
-- 👀 Gostaria de encontrar um estágio ou vaga junior para aperfeiçoar meu desenvolvimento profissional e pessoal.
+- 👀 Gostaria de encontrar um estágio ou vaga junior para aperfeiçoar meu desenvolvimento.
   
-- 🌱 Estou aprendendo Java nos cursos da Alura, para me tornar um FullStack e conhecer novas tecnologias mais utilizadas. Constância sempre!
+- 🌱 Estou aprendendo Java nos cursos da Alura e bootcamps para me tornar um beckend proficiente. Constância sempre!
   
 - 💞️ Pretendo em breve colaborar com a comunidade para tornar a vida das pessoas menos problemáticas através de softwares.
   
-- 📫 Gostaria de esclarecer mais dúvidas através do meu contato.
+- 📫 Gostaria de fazer novas amizades e compartilhar novos conhecimentos.
 ____________________________________________________________________________________________________________________________________________
 
 ![faria Git Stats](https://github-readme-stats.vercel.app/api?username=fariawillyan&show_icons=true&theme=highcontrast)
