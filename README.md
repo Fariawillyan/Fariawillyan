@@ -16,8 +16,6 @@
                                                                                                                
 # 💻 Hi There!
 
-____________________________________________________________________________________________________________________________________________
-
 ![faria Git Stats](https://github-readme-stats.vercel.app/api?username=fariawillyan&show_icons=true&theme=highcontrast)
 ![faria Git Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Fariawillyan&layout=compact&theme=highcontrast)                                                                                                              
  
