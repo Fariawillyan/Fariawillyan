@@ -13,17 +13,9 @@
 <a target="_blank" href="mailto:fariawillyan@gmail.com">
   <img align="right" alt="Gmail" width="22px" src="https://img.icons8.com/color/48/000000/gmail-login.png"/>
 </a>
-
                                                                                                                
-- 👋 Olá. Tudo bem? Atualmente estou finalizando o curso de Análise e desenvolvimento de sistemas na UNINTER. Possuo Conhecimento em inglês e facilidade em aprender novas tecnologias.
+# 💻 Hi There!
 
-- 👀 Gostaria de encontrar um estágio ou vaga junior para aperfeiçoar meu desenvolvimento.
-  
-- 🌱 Estou aprendendo Java nos cursos da Alura e bootcamps para me tornar um beckend proficiente. Constância sempre!
-  
-- 💞️ Pretendo em breve colaborar com a comunidade para tornar a vida das pessoas menos problemáticas através de softwares.
-  
-- 📫 Gostaria de fazer novas amizades e compartilhar novos conhecimentos.
 ____________________________________________________________________________________________________________________________________________
 
 ![faria Git Stats](https://github-readme-stats.vercel.app/api?username=fariawillyan&show_icons=true&theme=highcontrast)
