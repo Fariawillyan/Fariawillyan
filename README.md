@@ -2,7 +2,7 @@
   <img align="right" alt="LinkdeIN" width="22px" src="https://img.icons8.com/fluency/50/000000/linkedin.png"/>
 </a>
 
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5535997144407">
+<div dir="auto"><a target="_blank" href="https://api.whatsapp.com/send?phone=5535997144407">
   <img align="right" alt="Whatsapp" width="22px" src="https://img.icons8.com/color/48/000000/whatsapp--v3.png"/>
 </a>
                                                                                                                       
@@ -12,7 +12,7 @@
 
 <a target="_blank" href="mailto:fariawillyan@gmail.com">
   <img align="right" alt="Gmail" width="22px" src="https://img.icons8.com/color/48/000000/gmail-login.png"/>
-</a>
+</a></div>
                                                                                                                
 # 💻 Hi There!
 
