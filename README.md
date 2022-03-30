@@ -18,7 +18,12 @@
 
 I'm from Brazil and currently I'm looking for a opportunity of trainee or internship in development company's. I began my career this year like developer Java. Nowadays study full time making API Rest with Springboot, Sql Server, JPA, Hibernat, GIT, JMS, postman and others frameworks. I'd like to know more people. Thanks.
 
-<a href="https://github.com/Fariawillyan"><img src="https://github-readme-stats.vercel.app/api?username=Fariawillyan&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;" height="180em"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fariawillyan&amp;layout=compact&amp;langs_count=7&amp;theme=dark" style="max-width: 100%;" height="180em"></a>
+<div dir="auto" align="center">
+ <a href="https://github.com/Fariawillyan">
+ <img src="https://camo.githubusercontent.com/cdbfea900d566fba0d517b4638fd410e6e8c484da7ef240e26b2819d3f26ee6e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6d6d6172636f7361622673686f775f69636f6e733d74727565267468656d653d6461726b26696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Fariawillyan&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;" height="180em">
+<img src="https://camo.githubusercontent.com/86e98664f0041eac66cfba95806b87453c111eff17ccbb829fc0835862c19230/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6d6d6172636f736162266c61796f75743d636f6d70616374266c616e67735f636f756e743d37267468656d653d6461726b" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fariawillyan&amp;layout=compact&amp;langs_count=7&amp;theme=dark" style="max-width: 100%;" height="180em">
+  
+ </a></div>
  
 Conhecimentos.</br>
                                                                                                                
