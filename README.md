@@ -18,8 +18,13 @@
 
 I'm from Brazil and currently I'm looking for a opportunity of trainee or internship in development company's. I began my career this year like developer Java. Nowadays study full time making API Rest with Springboot, Sql Server, JPA, Hibernat, GIT, JMS, postman and others frameworks. I'd like to know more people. Thanks.
 
-![faria Git Stats](https://github-readme-stats.vercel.app/api?username=fariawillyan&show_icons=true&theme=highcontrast)
-![faria Git Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Fariawillyan&layout=compact&theme=highcontrast)                                                                                                              
+<a href="https://github.com/Fariawillyan">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Fariawillyan&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;" height="180em">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fariawillyan&amp;layout=compact&amp;langs_count=7&amp;theme=dark" style="max-width: 100%;" height="180em">
+  
+ </a>
  
 Conhecimentos.</br>
                                                                                                                
