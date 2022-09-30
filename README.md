@@ -15,9 +15,11 @@
   <img align="auto" alt="Gmail" width="22px" src="https://img.icons8.com/color/48/000000/gmail-login.png"/>
 </a>
                                                                                                                
-# 💻 Hi There!
+# 💻 Hello 💻 
+   My name is Willyan faria and I'm a Software Developer in Brazil. I like coffee, programming, gamming and brazilian jiu jitsu! I Always say... if you wanna be a good developer, you must be a good person firstly! 
 </div>
 <div dir="auto" align="center">
+ 
  <a href="https://github.com/Fariawillyan">
  <img src="https://github-readme-stats.vercel.app/api?username=Fariawillyan&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;" height="180em">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fariawillyan&amp;layout=compact&amp;langs_count=7&amp;theme=dark" style="max-width: 100%;" height="180em">
