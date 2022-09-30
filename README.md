@@ -16,7 +16,7 @@
 </a>
                                                                                                                
 # 💻 Hello 💻 
-   My name is Willyan faria and I'm a Software Developer in Brazil. I like coffee, programming, gamming and brazilian jiu jitsu! I Always say... if you wanna be a good developer, you must be a good person firstly! 
+   My name is Willyan faria and I'm a Software Developer in Brazil. I like to drink coffee, programming, play games and to fight brazilian jiu jitsu! Owww... I Always say... if you wanna be a good developer, you must be a good person firstly! 
 </div>
 <div dir="auto" align="center">
  
