@@ -24,18 +24,18 @@
 <div dir="auto" align="left">
    <p>My name is Willyan faria and I'm a Software Developer in Brazil.</p>
    <p>I like to drink coffee, programming, play games and</p>
-   <p>sports like brazilian jiu jitsu! Owww...</p>   
-   <p>I also like to make friends and learning toghether</p>
-   <p>You can contact me to know more!!!</p>
-   
+   <p>sports like Brazilian Jiu Jitsu! Owww...</p>  
    <br></br>
    
-   <p>Remember...</p>
-   
-   <br></br>
-   
+   <p>I also like to make new friends to code toghether.</p>
    <p> I Always say... if you wanna be a good developer,</p>
-   <p>you must be a good person firstly!</p>  
+   <p>you must be a good person firstly!</p>   
+    
+    
+   <br></br>
+   <p>You can connect with me to know more!!!</p>
+   
+    
    
 <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" style="max-width: 100%;" height="150em">
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" style="max-width: 100%;" height="150em" />
