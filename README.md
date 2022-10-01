@@ -29,12 +29,12 @@
    <p>You can contact me to know more!!!</p>
    <p>Remember...</p>
    <p> I Always say... if you wanna be a good developer,</p>
-   <p>you must be a good person firstly!</p>
+   <p>you must be a good person firstly!</p>  
    
-   
-   
+<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" style="max-width: 100%;" height="200em">
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" style="max-width: 100%;" height="200em" />
 
-   <img src="https://octodex.github.com/images/dojocat.jpg" style="max-width: 100%;" height="200em" />
+<img class="d-block width-fit height-auto mx-auto rounded-1" src="/images/NUX_Octodex.gif" alt="NUXtocat">
 
 </div>
    
