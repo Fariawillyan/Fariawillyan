@@ -1,18 +1,18 @@
 <div dir="auto" align="center">
 <a target="_blank" href="https://www.linkedin.com/in/fariawillyan/">  
-  <img align="auto" alt="LinkdeIN" width="22px" src="https://img.icons8.com/fluency/50/000000/linkedin.png"/>
+  <img align="auto" alt="LinkdeIN" width="50px" src="https://img.icons8.com/fluency/50/000000/linkedin.png"/>
 </a>
 
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5535997144407">
-  <img align="auto" alt="Whatsapp" width="22px" src="https://img.icons8.com/color/48/000000/whatsapp--v3.png"/>
+  <img align="auto" alt="Whatsapp" width="50px" src="https://img.icons8.com/color/48/000000/whatsapp--v3.png"/>
 </a>
                                                                                                                       
 <a target="_blank" href="https://www.instagram.com/fariawillyan/">
-  <img align="auto" alt="Instagram" width="22px"  src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
+  <img align="auto" alt="Instagram" width="50px"  src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
 </a>
 
 <a target="_blank" href="mailto:fariawillyan@gmail.com">
-  <img align="auto" alt="Gmail" width="22px" src="https://img.icons8.com/color/48/000000/gmail-login.png"/>
+  <img align="auto" alt="Gmail" width="50px" src="https://img.icons8.com/color/48/000000/gmail-login.png"/>
 </a>
 
 </div>
