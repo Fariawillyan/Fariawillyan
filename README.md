@@ -14,10 +14,28 @@
 <a target="_blank" href="mailto:fariawillyan@gmail.com">
   <img align="auto" alt="Gmail" width="22px" src="https://img.icons8.com/color/48/000000/gmail-login.png"/>
 </a>
+
+</div>
+
+<div>
                                                                                                                
 # 💻 Hello 💻 
-   My name is Willyan faria and I'm a Software Developer in Brazil. I like to drink coffee, programming, play games and to fight brazilian jiu jitsu! Owww... I Always say... if you wanna be a good developer, you must be a good person firstly! 
+<img align="right" style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"> 
+<div dir="auto" align="left">
+   <p>My name is Willyan faria and I'm a Software Developer in Brazil.</p>
+   <p>I like to drink coffee, programming, play games and to pratice</p>
+   <p>sports like brazilian jiu jitsu! Owww...</p>
+   <p> I Always say... if you wanna be a good developer,</p>
+   <p>you must be a good person firstly!</p>
+
+   <img src="https://octodex.github.com/images/dojocat.jpg" style="max-width: 200%;" height="400em" />
+
 </div>
+   
+
+
+
+
 <div dir="auto" align="center">
  
  <a href="https://github.com/Fariawillyan">
@@ -25,6 +43,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fariawillyan&amp;layout=compact&amp;langs_count=7&amp;theme=dark" style="max-width: 100%;" height="180em">
   
  </a></div>
+
+
+
 
                                                                                                                
 <div dir="auto" align="center">  
