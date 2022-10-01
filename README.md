@@ -23,7 +23,7 @@
 <img align="right" style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"> 
 <div dir="auto" align="left">
    <p>My name is Willyan faria and I'm a Software Developer in Brazil.</p>
-   <p>I like to drink coffee, programming, play games and to pratice</p>
+   <p>I like to drink coffee, programming, play games and</p>
    <p>sports like brazilian jiu jitsu! Owww...</p>   
    <p>I also like to make friends and learning toghether</p>
    <p>You can contact me to know more!!!</p>
