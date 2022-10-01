@@ -25,10 +25,16 @@
    <p>My name is Willyan faria and I'm a Software Developer in Brazil.</p>
    <p>I like to drink coffee, programming, play games and to pratice</p>
    <p>sports like brazilian jiu jitsu! Owww...</p>
+   <p>I also like to make friends and learning toghether</p>
+   <p>You can contact me to know more!!!</p>
+   <p>Remember...</p>
    <p> I Always say... if you wanna be a good developer,</p>
    <p>you must be a good person firstly!</p>
+   
+   
+   
 
-   <img src="https://octodex.github.com/images/dojocat.jpg" style="max-width: 200%;" height="400em" />
+   <img src="https://octodex.github.com/images/dojocat.jpg" style="max-width: 100%;" height="200em" />
 
 </div>
    
