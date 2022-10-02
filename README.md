@@ -40,15 +40,15 @@
   
 <p><g-emoji class="g-emoji" alias="small_blue_diamond" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"><img class="emoji" alt="small_blue_diamond" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"></g-emoji>Programming Language: C, JAVA and Typescript</p>
   
-<p><g-emoji class="g-emoji" alias="small_blue_diamond" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"><img class="emoji" alt="small_blue_diamond" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"></g-emoji>Problem Solving Skills:Algorithms and OOPs </p>
+<p><g-emoji class="g-emoji" alias="small_blue_diamond" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"><img class="emoji" alt="small_blue_diamond" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"></g-emoji>Problem Solving Skills: Algorithms and OOPs </p>
   
 <p><g-emoji class="g-emoji" alias="small_blue_diamond" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"><img class="emoji" alt="small_blue_diamond" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"></g-emoji>Development: HTML5 and CSS3</p>
   
 <p><g-emoji class="g-emoji" alias="small_blue_diamond" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"><img class="emoji" alt="small_blue_diamond" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"></g-emoji>Framework & Tools : SpringBoot and Others</p>  
   
-<p><g-emoji class="g-emoji" alias="small_blue_diamond" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"><img class="emoji" alt="small_blue_diamond" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"></g-emoji>Database : PostgreSQL and MySQL.</p>
+<p><g-emoji class="g-emoji" alias="small_blue_diamond" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"><img class="emoji" alt="small_blue_diamond" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"></g-emoji>Database : PostgreSQL and MySQL</p>
   
-<p><g-emoji class="g-emoji" alias="small_blue_diamond" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"><img class="emoji" alt="small_blue_diamond" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"></g-emoji>Operating System: Linux.</p>
+<p><g-emoji class="g-emoji" alias="small_blue_diamond" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"><img class="emoji" alt="small_blue_diamond" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"></g-emoji>Operating System: Linux</p>
   
 <p><g-emoji class="g-emoji" alias="small_blue_diamond" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"><img class="emoji" alt="small_blue_diamond" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"></g-emoji>IDEs: Intellij and Visual Studio</p>    
     
