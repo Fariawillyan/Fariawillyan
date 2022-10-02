@@ -31,8 +31,8 @@
   
 <div dir="auto" align="left">
    <p>My name is Willyan faria and I'm a Software Developer in Brazil. Graduated in Systems Analysis and Development at UNINTER International Universiry Center.</p>
-   <p>I like to drink coffee, programming, play games and</p>
-   <p>sports like Brazilian Jiu Jitsu! Owww...</p>  
+   <p>I like to drink coffee, programming, play games and
+   sports like Brazilian Jiu Jitsu! Owww...</p>  
    <br></br>
   
 <p>My skills include :</p>
