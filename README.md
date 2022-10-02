@@ -48,7 +48,7 @@
   
 <p><g-emoji class="g-emoji" alias="small_blue_diamond" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"><img class="emoji" alt="small_blue_diamond" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"></g-emoji>Operating System: Linux</p>
   
-<p><g-emoji class="g-emoji" alias="small_blue_diamond" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"><img class="emoji" alt="small_blue_diamond" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"></g-emoji>IDEs: Intellij and Visual Studio</p>    
+<p><g-emoji class="g-emoji" alias="small_blue_diamond" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"><img class="emoji" alt="small_blue_diamond" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"></g-emoji>IDEs: Intellij and Visual Studio Code</p>    
     
  
     
