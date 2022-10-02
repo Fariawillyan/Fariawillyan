@@ -1,40 +1,58 @@
+
+
 <div dir="auto" align="center">
+<img src="https://media.tenor.com/t8BoinVLwzAAAAAi/raf-rafs.gif" style="max-width: 100%;" height="50em">
+  
 <a target="_blank" href="https://www.linkedin.com/in/fariawillyan/">  
-  <img align="auto" alt="LinkdeIN" width="50px" src="https://img.icons8.com/fluency/50/000000/linkedin.png"/>
+  <img align="auto" alt="LinkdeIN" width="40px" src="https://img.icons8.com/fluency/50/000000/linkedin.png"/>
 </a>
 
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5535997144407">
-  <img align="auto" alt="Whatsapp" width="50px" src="https://img.icons8.com/color/48/000000/whatsapp--v3.png"/>
+  <img align="auto" alt="Whatsapp" width="40px" src="https://img.icons8.com/color/48/000000/whatsapp--v3.png"/>
 </a>
                                                                                                                       
 <a target="_blank" href="https://www.instagram.com/fariawillyan/">
-  <img align="auto" alt="Instagram" width="50px"  src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
+  <img align="auto" alt="Instagram" width="40px"  src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
 </a>
 
 <a target="_blank" href="mailto:fariawillyan@gmail.com">
-  <img align="auto" alt="Gmail" width="50px" src="https://img.icons8.com/color/48/000000/gmail-login.png"/>
-</a>
+  <img align="auto" alt="Gmail" width="40px"  src="https://img.icons8.com/color/48/000000/gmail-login.png"/>
+</a>  
+
+
 
 </div>
 
+
 <div>
                                                                                                                
-# 💻 Hello 💻 
+# Hi, I'm Willyan Faria <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px" />
 <img align="right" style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"> 
+  
 <div dir="auto" align="left">
    <p>My name is Willyan faria and I'm a Software Developer in Brazil.</p>
    <p>I like to drink coffee, programming, play games and</p>
    <p>sports like Brazilian Jiu Jitsu! Owww...</p>  
    <br></br>
-   
-   <p>I also like to make new friends to code toghether.</p>
-   <p> I Always say... if you wanna be a good developer,</p>
-   <p>you must be a good person firstly!</p>   
+  
+<p>My skills include :</p>
+
+  
+<p><g-emoji class="g-emoji" alias="small_blue_diamond" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"><img class="emoji" alt="small_blue_diamond" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"></g-emoji>Programming Language: C, JAVA, Typescript</p>
+  
+<p><g-emoji class="g-emoji" alias="small_blue_diamond" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"><img class="emoji" alt="small_blue_diamond" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"></g-emoji>Problem Solving Skills: Data Structures & Algorithms , OOPs </p>
+  
+<p><g-emoji class="g-emoji" alias="small_blue_diamond" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"><img class="emoji" alt="small_blue_diamond" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"></g-emoji>Development: HTML5, CSS3</p>
+  
+<p><g-emoji class="g-emoji" alias="small_blue_diamond" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"><img class="emoji" alt="small_blue_diamond" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"></g-emoji>Framework & Tools : SpringBoot, thymeleaf, Bootstrap, Git</p>  
+  
+<p><g-emoji class="g-emoji" alias="small_blue_diamond" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"><img class="emoji" alt="small_blue_diamond" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"></g-emoji>Database : PostgreSQL and MySQL.</p>
+  
+<p><g-emoji class="g-emoji" alias="small_blue_diamond" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"><img class="emoji" alt="small_blue_diamond" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"></g-emoji>Operating System: Linux.</p>
+  
+<p><g-emoji class="g-emoji" alias="small_blue_diamond" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"><img class="emoji" alt="small_blue_diamond" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"></g-emoji>IDEs: Intellij and Visual Studio</p>    
     
-    
-   <br></br>
-   <p>You can connect with me to know more!!!</p>
-   
+ 
     
    
 <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" style="max-width: 100%;" height="150em">
