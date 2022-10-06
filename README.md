@@ -38,7 +38,7 @@
 <p>My skills include :</p>
 
   
-<p><g-emoji class="g-emoji" alias="small_blue_diamond" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"><img class="emoji" alt="small_blue_diamond" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"></g-emoji>Programming Language: C, JAVA and Typescript</p>
+<p><g-emoji class="g-emoji" alias="small_blue_diamond" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"><img class="emoji" alt="small_blue_diamond" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"></g-emoji>Programming Language: JAVA</p>
   
 <p><g-emoji class="g-emoji" alias="small_blue_diamond" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"><img class="emoji" alt="small_blue_diamond" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"></g-emoji>Problem Solving Skills: Algorithms and OOPs </p>  
   
