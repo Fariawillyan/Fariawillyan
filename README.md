@@ -77,11 +77,11 @@
         <tr valign="top">
             <td width="80px" align="center">
             <span><strong>Java</strong></span><br>
-            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/20ffa1c9a31e2c991c8b52b0cb7be938de51db4b7a9299658fef28efb0cc845a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667"><img height="32" src="https://camo.githubusercontent.com/20ffa1c9a31e2c991c8b52b0cb7be938de51db4b7a9299658fef28efb0cc845a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width: 100%;"></a>
+            <a href="https://www.java.com/pt-BR/" rel="nofollow"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="c" style="max-width: 100%;" width="40" height="40"> </a>
             </td>
             <td width="80px" align="center">
-            <span><strong>C</strong></span><br>
-            <a href="https://docs.microsoft.com/pt-br/cpp/c-language/?view=msvc-170" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" style="max-width: 100%;" width="40" height="40"> </a>
+            <span><strong>SQL</strong></span><br>
+            <a href="https://www.w3schools.com/sql/" rel="nofollow"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sql_icon_130152.png" alt="c" style="max-width: 100%;" width="40" height="40"> </a>
             </td>
             <td width="80px" align="center">
             <span><strong>HTML</strong></span><br>
@@ -134,8 +134,8 @@
             <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a30c26e9ffad4c4379b2b178319fb740c78092e6f1d616c5bbc0d4aca27f5bf7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7562756e74752f7562756e74752d706c61696e2d776f72646d61726b2e737667"><img height="32px" src="https://camo.githubusercontent.com/a30c26e9ffad4c4379b2b178319fb740c78092e6f1d616c5bbc0d4aca27f5bf7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7562756e74752f7562756e74752d706c61696e2d776f72646d61726b2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" style="max-width: 100%;"></a>
             </td>
             <td width="80px" align="center">
-            <span><strong>Kaggle</strong></span><br>
-            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e3a422cd30ab5ac7cb974e76dbcd79b142c32e7b6a6171804f6db22cd899edf3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6b6167676c652f6b6167676c652d6f726967696e616c2d776f72646d61726b2e737667"><img height="32px" src="https://camo.githubusercontent.com/e3a422cd30ab5ac7cb974e76dbcd79b142c32e7b6a6171804f6db22cd899edf3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6b6167676c652f6b6167676c652d6f726967696e616c2d776f72646d61726b2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" style="max-width: 100%;"></a>
+            <span><strong>Scrum</strong></span><br>
+             <a href="https://www.atlassian.com/br/agile/scrum" rel="nofollow">  <img src="https://cdn-icons-png.flaticon.com/512/2620/2620481.png" alt="docker" style="max-width: 100%;" width="40" height="40"></a>
             </td>
         </tr>
         <tr valign="top">
@@ -144,8 +144,8 @@
             <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"><img height="32px" src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original-wordmark.svg" style="max-width: 100%;"></a>
             </td>
             <td width="80px" align="center">
-            <span><strong>Django</strong></span><br>
-            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f319f12395d0be9498a11de993fb4efe21c1c7849ef802380ad22306c63e639e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646a616e676f2f646a616e676f2d706c61696e2e737667"><img height="32px" src="https://camo.githubusercontent.com/f319f12395d0be9498a11de993fb4efe21c1c7849ef802380ad22306c63e639e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646a616e676f2f646a616e676f2d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" style="max-width: 100%;"></a>
+            <span><strong>Dbeaver</strong></span><br>
+             <a href="https://dbeaver.com/download/" rel="nofollow">  <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/dbeaver_94555.png" alt="docker" style="max-width: 100%;" width="40" height="40"></a>
             </td>
             <td width="80px" align="center">
             <span><strong>Kafka</strong></span><br>
@@ -161,47 +161,25 @@
         </tr>
          <tr valign="top">
             <td width="80px" align="center">
-            <span><strong>Ubuntu</strong></span><br>
-            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a30c26e9ffad4c4379b2b178319fb740c78092e6f1d616c5bbc0d4aca27f5bf7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7562756e74752f7562756e74752d706c61696e2d776f72646d61726b2e737667"><img height="32px" src="https://camo.githubusercontent.com/a30c26e9ffad4c4379b2b178319fb740c78092e6f1d616c5bbc0d4aca27f5bf7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7562756e74752f7562756e74752d706c61696e2d776f72646d61726b2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" style="max-width: 100%;"></a>
+            <span><strong>Mockito</strong></span><br>
+             <a href="https://site.mockito.org/" rel="nofollow">  <img src="https://www.alura.com.br/assets/api/cursos/512/mocks-java-mockito.png" alt="docker" style="max-width: 100%;" width="40" height="40"></a>
             </td>
             <td width="80px" align="center">
-            <span><strong>Twitter</strong></span><br>
-            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1b6f9e51669914513da0c948cab9c50b9ba28fbe9d95f3fbbfafb52a0f0e1e26/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f747769747465722f747769747465722d6f726967696e616c2e737667"><img height="32px" src="https://camo.githubusercontent.com/1b6f9e51669914513da0c948cab9c50b9ba28fbe9d95f3fbbfafb52a0f0e1e26/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f747769747465722f747769747465722d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="max-width: 100%;"></a>
+            <span><strong>Cucumber</strong></span><br>
+             <a href="https://cucumber.io/" rel="nofollow">  <img src="https://seeklogo.com/images/C/cucumber-logo-D727C551CE-seeklogo.com.png" alt="docker" style="max-width: 100%;" width="40" height="40"></a>
             </td>
             <td width="80px" align="center">
-            <span><strong>TensorFlow</strong></span><br>
-            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bbe18395e2f85cbbce5f4935dbd0dc150471afccee587116d0a70c0a5bb1ce1e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f74656e736f72666c6f772f74656e736f72666c6f772d6f726967696e616c2e737667"><img height="32px" src="https://camo.githubusercontent.com/bbe18395e2f85cbbce5f4935dbd0dc150471afccee587116d0a70c0a5bb1ce1e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f74656e736f72666c6f772f74656e736f72666c6f772d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="max-width: 100%;"></a>
+            <span><strong>K8s</strong></span><br>
+             <a href="https://kubernetes.io/pt-br/" rel="nofollow">  <img src="https://upload.wikimedia.org/wikipedia/labs/thumb/b/ba/Kubernetes-icon-color.svg/512px-Kubernetes-icon-color.svg.png?20210818121315" alt="docker" style="max-width: 100%;" width="40" height="40"></a>
             </td><td width="80px" align="center">
-            <span><strong>Rstudio</strong></span><br>
-            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/63ed61543d9b61f9e6a112f81476b26805207907ed98c67ebcf5f8cecba84c06/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7273747564696f2f7273747564696f2d6f726967696e616c2e737667"><img height="32px" src="https://camo.githubusercontent.com/63ed61543d9b61f9e6a112f81476b26805207907ed98c67ebcf5f8cecba84c06/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7273747564696f2f7273747564696f2d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" style="max-width: 100%;"></a>
+            <span><strong>Bootstrap</strong></span><br>
+             <a href="https://getbootstrap.com/" rel="nofollow">  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="docker" style="max-width: 100%;" width="40" height="40"></a>
             </td>
             <td width="80px" align="center">
-            <span><strong>R</strong></span><br>
-            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ac562275ee7333ff39cdecc82f312fb785f308652f5e6e16f0eb13bd08796e90/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f722f722d6f726967696e616c2e737667"><img height="32px" src="https://camo.githubusercontent.com/ac562275ee7333ff39cdecc82f312fb785f308652f5e6e16f0eb13bd08796e90/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f722f722d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="max-width: 100%;"></a>
+            <span><strong>Thymeleaf</strong></span><br>
+             <a href="https://www.thymeleaf.org/" rel="nofollow">  <img src="https://img.icons8.com/color/452/thymeleaf.png" alt="docker" style="max-width: 100%;" width="40" height="40"></a>
             </td>
-        </tr>
-        <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>Putty</strong></span><br>
-            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2b8cc50966217ea386e875beec9490c5976b6afb7300d56c3089b7310102d39f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f70757474792f70757474792d6f726967696e616c2e737667"><img height="32px" src="https://camo.githubusercontent.com/2b8cc50966217ea386e875beec9490c5976b6afb7300d56c3089b7310102d39f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f70757474792f70757474792d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" style="max-width: 100%;"></a>
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Pandas</strong></span><br>
-            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7b8e40d7226f5b52e88e8c60cc1c34c6858ab448740a2e511f471ec9dde609c8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f70616e6461732f70616e6461732d6f726967696e616c2d776f72646d61726b2e737667"><img height="32px" src="https://camo.githubusercontent.com/7b8e40d7226f5b52e88e8c60cc1c34c6858ab448740a2e511f471ec9dde609c8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f70616e6461732f70616e6461732d6f726967696e616c2d776f72646d61726b2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" style="max-width: 100%;"></a>
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Oracle</strong></span><br>
-            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bf281611aa3b94a6c55a8da92d182d64a758e6d34b824a654967df1bff05ec7b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6f7261636c652f6f7261636c652d6f726967696e616c2e737667"><img height="32px" src="https://camo.githubusercontent.com/bf281611aa3b94a6c55a8da92d182d64a758e6d34b824a654967df1bff05ec7b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6f7261636c652f6f7261636c652d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" style="max-width: 100%;"></a>
-            </td><td width="80px" align="center">
-            <span><strong>MS Office</strong></span><br>
-            <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/64362437/187420204-0e96ffdb-d87d-405c-b37b-722bb8cca027.png"><img height="32px" src="https://user-images.githubusercontent.com/64362437/187420204-0e96ffdb-d87d-405c-b37b-722bb8cca027.png" style="max-width: 100%;"></a>
-            </td>
-            <td width="80px" align="center">
-            <span><strong>JQuery</strong></span><br>
-            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ea00f04e50ce727072c4f6c93d402e6a9fdd59aeb1549d31fe6e86651256007b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a71756572792f6a71756572792d6f726967696e616c2e737667"><img height="32px" src="https://camo.githubusercontent.com/ea00f04e50ce727072c4f6c93d402e6a9fdd59aeb1549d31fe6e86651256007b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a71756572792f6a71756572792d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="max-width: 100%;"></a>
-          </td>
-        </tr>
-    </tbody>
+        </tr>     
 </table>                                                                                                               
 
  
