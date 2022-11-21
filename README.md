@@ -2,6 +2,7 @@
 
 <div dir="auto" align="center">
 <img src="https://media.tenor.com/t8BoinVLwzAAAAAi/raf-rafs.gif" style="max-width: 100%;" height="50em">
+
   
 <a target="_blank" href="https://www.linkedin.com/in/fariawillyan/">  
   <img align="auto" alt="LinkdeIN" width="40px" src="https://img.icons8.com/fluency/50/000000/linkedin.png"/>
@@ -185,11 +186,11 @@
  
  
  
- 
+
   
  <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/Fariawillyan/Fariawillyan/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/Fariawillyan/Fariawillyan/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a></p>
 
-
+ ![@fariawillyan's Holopin board](https://holopin.me/fariawillyan)
 <!---
 Fariawillyan/Fariawillyan is a ✨ Developer ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
