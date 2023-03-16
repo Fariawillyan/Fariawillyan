@@ -32,10 +32,6 @@
   
 <div dir="auto" align="center">
    <p>Software Developer Enthusiast and an open source contributor in Brazil. 
-   <p>Graduated in Systems Analysis and Development at UNINTER International Universiry Center.</p>
-   <p>I like to drink coffee, programming, play games and
-   sports like Brazilian Jiu Jitsu! Owww...</p>  
-   <br></br>
   
 <p>My skills include :</p>
 
