@@ -29,10 +29,10 @@
 
 <div>                                                                                                               
 
-<img align="right" style="display: block;-webkit-user-select: none;margin: 10px 50px 20px 0;background-color: hsl(0, 0%, 90%);" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"> 
   
-<div dir="auto" align="left">
-   <p>Software Developer Enthusiast and an open source contributor in Brazil. Graduated in Systems Analysis and Development at UNINTER International Universiry Center.</p>
+<div dir="auto" align="center">
+   <p>Software Developer Enthusiast and an open source contributor in Brazil. 
+   <p>Graduated in Systems Analysis and Development at UNINTER International Universiry Center.</p>
    <p>I like to drink coffee, programming, play games and
    sports like Brazilian Jiu Jitsu! Owww...</p>  
    <br></br>
@@ -55,24 +55,24 @@
  
     
    
-<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" style="max-width: 100%;" height="150em">
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" style="max-width: 100%;" height="150em" />
+<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" style="max-width: 100%;" height="150em" align="left">
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" style="max-width: 100%;" height="150em" align="right" />
 
 <img class="d-block width-fit height-auto mx-auto rounded-1" src="/images/NUX_Octodex.gif" alt="NUXtocat">
 
 </div>
+
+
+<div dir="auto" align="center"> 
+
+<img src="https://github-readme-stats.vercel.app/api?username=Fariawillyan&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&amp;title_color=00bfbf&amp;icon_color=00bfbf&amp;text_color=c9d1d9&amp;bg_color=0d1117" style="max-width: 100%;" width="49%" height="195px">
    
-
-
-
-
-<div dir="auto" align="center">
- 
- <a href="https://github.com/Fariawillyan">
- <img src="https://github-readme-stats.vercel.app/api?username=Fariawillyan&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;" height="180em">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fariawillyan&amp;layout=compact&amp;langs_count=7&amp;theme=dark" style="max-width: 100%;" height="180em">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fariawillyan&amp;layout=compact&amp;hide_border=true&amp;title_color=00bfbf&amp;text_color=00bfbf&amp;bg_color=0d1117" style="max-width: 100%;" width="41%" height="195px">   
+   
   
  </a></div>
+ 
+ 
 
 <table width="320px" align="center">
     <tbody>
@@ -191,7 +191,7 @@
   
  <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/Fariawillyan/Fariawillyan/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/Fariawillyan/Fariawillyan/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a></p>
 
- ![@fariawillyan's Holopin board](https://holopin.me/fariawillyan)
+
 <!---
 Fariawillyan/Fariawillyan is a ✨ Developer ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
