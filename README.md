@@ -27,9 +27,11 @@
 </div>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=1000&color=407EF7&width=435&lines=Hi...+I'm+Willyan+Faria" alt="Typing SVG" /></a>
+
+
 <div>
                                                                                                                
-
+# Never give up<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px" />
 <img align="right" style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"> 
   
 <div dir="auto" align="left">
