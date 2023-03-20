@@ -180,13 +180,10 @@
              <a href="https://www.thymeleaf.org/" rel="nofollow">  <img src="https://img.icons8.com/color/452/thymeleaf.png" alt="docker" style="max-width: 100%;" width="40" height="40"></a>
             </td>
         </tr>     
-</table>                                                                                                               
+</table>                                                                                                              
 
  
  
-<p dir="auto" align="center">
-<b>Visitors Count</b></p>
-<p dir="auto" align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5b918d03b20953f17ccc086806cd7a4f3568cc6f86b0bee214976e9280074968/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f7b4e617a61726f764173616462656b7d2f636f756e742e737667"><img src="https://camo.githubusercontent.com/5b918d03b20953f17ccc086806cd7a4f3568cc6f86b0bee214976e9280074968/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f7b4e617a61726f764173616462656b7d2f636f756e742e737667" data-canonical-src="https://profile-counter.glitch.me/{Fariawillyan}/count.svg" style="max-width: 100%;" align="middle"></a></p>
  
  
  
