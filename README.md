@@ -24,7 +24,7 @@
 
 </div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=1000&color=407EF7&width=435&lines=Hi...+I'm+Willyan+Faria" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=System.out.println(%22Willyan+Faria%22)" alt="Typing SVG" /></a>
 
 
 <div>                                                                                                               
@@ -47,24 +47,25 @@
 <p><g-emoji class="g-emoji" alias="small_blue_diamond" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"><img class="emoji" alt="small_blue_diamond" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"></g-emoji>Operating System: Linux</p>
   
 <p><g-emoji class="g-emoji" alias="small_blue_diamond" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"><img class="emoji" alt="small_blue_diamond" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"></g-emoji>IDEs: Intellij and Visual Studio Code</p>    
-    
- 
-    
+       
    
-<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" style="max-width: 100%;" height="150em" align="left">
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" style="max-width: 100%;" height="150em" align="right" />
 
-<img class="d-block width-fit height-auto mx-auto rounded-1" src="/images/NUX_Octodex.gif" alt="NUXtocat">
+
 
 </div>
 
 
-<div dir="auto" align="center"> 
+<div dir="auto" align="center">  
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c4037bd4dd63fc884edcf1ed67999e773acdd31274832b65ae98d9a7f638ce73/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4e617a61726f764173616462656b2673686f775f69636f6e733d7472756526636f756e745f707269766174653d7472756526686964655f626f726465723d74727565267469746c655f636f6c6f723d3030626662662669636f6e5f636f6c6f723d30306266626626746578745f636f6c6f723d6339643164392662675f636f6c6f723d306431313137"><img src="https://camo.githubusercontent.com/c4037bd4dd63fc884edcf1ed67999e773acdd31274832b65ae98d9a7f638ce73/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4e617a61726f764173616462656b2673686f775f69636f6e733d7472756526636f756e745f707269766174653d7472756526686964655f626f726465723d74727565267469746c655f636f6c6f723d3030626662662669636f6e5f636f6c6f723d30306266626626746578745f636f6c6f723d6339643164392662675f636f6c6f723d306431313137" alt="Fariawillyan github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Fariawillyan&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&amp;title_color=00bfbf&amp;icon_color=00bfbf&amp;text_color=c9d1d9&amp;bg_color=0d1117" style="max-width: 100%;" width="49%" height="auto"></a> 
+  
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cd3e2f4225cbc603e74ceccb7acc7a0e2b25998186587da545bb235a7d087e9f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4e617a61726f764173616462656b266c61796f75743d636f6d7061637426686964655f626f726465723d74727565267469746c655f636f6c6f723d30306266626626746578745f636f6c6f723d3030626662662662675f636f6c6f723d306431313137"><img src="https://camo.githubusercontent.com/cd3e2f4225cbc603e74ceccb7acc7a0e2b25998186587da545bb235a7d087e9f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4e617a61726f764173616462656b266c61796f75743d636f6d7061637426686964655f626f726465723d74727565267469746c655f636f6c6f723d30306266626626746578745f636f6c6f723d3030626662662662675f636f6c6f723d306431313137" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fariawillyan&amp;layout=compact&amp;hide_border=true&amp;title_color=00bfbf&amp;text_color=00bfbf&amp;bg_color=0d1117" style="max-width: 100%;" width="37%" height="auto"></a>
+  
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Fariawillyan&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&amp;title_color=00bfbf&amp;icon_color=00bfbf&amp;text_color=c9d1d9&amp;bg_color=0d1117" style="max-width: 100%;" width="49%" height="195px">
-   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fariawillyan&amp;layout=compact&amp;hide_border=true&amp;title_color=00bfbf&amp;text_color=00bfbf&amp;bg_color=0d1117" style="max-width: 100%;" width="41%" height="195px">   
-   
+<div dir="auto" align="center"> 
+<img src="https://camo.githubusercontent.com/5afe99f368494b8f956154bd0f23d14de649a7613effaced10b8cc3fb12599ce/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4e617a61726f764173616462656b267468656d653d626c61636b2d69636526686964655f626f726465723d74727565267374726f6b653d30303030266261636b67726f756e643d3044313131372672696e673d30306266626626666972653d303062666266266375727253747265616b4c6162656c3d303062666266" alt="Fariawillyan" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=Fariawillyan&amp;theme=black-ice&amp;hide_border=true&amp;stroke=0000&amp;background=0D1117&amp;ring=00bfbf&amp;fire=00bfbf&amp;currStreakLabel=00bfbf" style="max-width: 100%;" width="91%" height="auto">
+
+  
   
  </a></div>
  
@@ -180,6 +181,11 @@
         </tr>     
 </table>                                                                                                               
 
+ 
+ 
+<p dir="auto" align="center">
+<b>Visitors Count</b></p>
+<p dir="auto" align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5b918d03b20953f17ccc086806cd7a4f3568cc6f86b0bee214976e9280074968/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f7b4e617a61726f764173616462656b7d2f636f756e742e737667"><img src="https://camo.githubusercontent.com/5b918d03b20953f17ccc086806cd7a4f3568cc6f86b0bee214976e9280074968/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f7b4e617a61726f764173616462656b7d2f636f756e742e737667" data-canonical-src="https://profile-counter.glitch.me/{Fariawillyan}/count.svg" style="max-width: 100%;" align="middle"></a></p>
  
  
  
