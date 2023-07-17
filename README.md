@@ -109,8 +109,8 @@
             <span><strong>GitHub</strong></span><br>
             <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"><img height="32px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="max-width: 100%;"></a>
             </td><td width="80px" align="center">
-            <span><strong>GitFlow</strong></span><br>
-            <a target="_blank" rel="noopener noreferrer nofollow" <a href="https://docs.github.com/pt" rel="nofollow"> <img src="https://img.icons8.com/plasticine/100/000000/github.png" alt="javascript" style="max-width: 100%;" width="50" height="50"/> </a>
+            <span><strong>GitLab</strong></span><br>
+            <a target="_blank" rel="noopener noreferrer nofollow" <a href="https://about.gitlab.com/" rel="nofollow"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/gitlab_original_wordmark_logo_icon_146504.png" alt="javascript" style="max-width: 100%;" width="50" height="50"/> </a>
             </td>
             <td width="80px" align="center">
             <span><strong>Docker</strong></span><br>
@@ -148,8 +148,8 @@
              <a href="https://dbeaver.com/download/" rel="nofollow">  <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/dbeaver_94555.png" alt="docker" style="max-width: 100%;" width="40" height="40"></a>
             </td>
             <td width="80px" align="center">
-            <span><strong>Kafka</strong></span><br>
-             <a href="https://kafka.apache.org/" rel="nofollow">  <img src="https://cdn.icon-icons.com/icons2/2248/PNG/512/apache_kafka_icon_138937.png" alt="docker" style="max-width: 100%;" width="40" height="40"></a>
+            <span><strong>Angular</strong></span><br>
+             <a href="https://angular.io/" rel="nofollow">  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" alt="docker" style="max-width: 100%;" width="40" height="40"></a>
             </td><td width="80px" align="center">
             <span><strong>IntelliJ</strong></span><br>
            <a href="https://www.jetbrains.com/pt-pt/lp/idea-extended-trial/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" style="max-width: 100%;" width="40" height="40"/> </a>
@@ -165,8 +165,8 @@
              <a href="https://site.mockito.org/" rel="nofollow">  <img src="https://www.alura.com.br/assets/api/cursos/512/mocks-java-mockito.png" alt="docker" style="max-width: 100%;" width="40" height="40"></a>
             </td>
             <td width="80px" align="center">
-            <span><strong>Cucumber</strong></span><br>
-             <a href="https://cucumber.io/" rel="nofollow">  <img src="https://seeklogo.com/images/C/cucumber-logo-D727C551CE-seeklogo.com.png" alt="docker" style="max-width: 100%;" width="40" height="40"></a>
+            <span><strong>Jira</strong></span><br>
+             <a href="https://www.atlassian.com/software/jira" rel="nofollow">  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" alt="docker" style="max-width: 100%;" width="40" height="40"></a>
             </td>
             <td width="80px" align="center">
             <span><strong>K8s</strong></span><br>
@@ -181,15 +181,6 @@
             </td>
         </tr>     
 </table>                                                                                                              
-
- 
- 
- 
- 
- 
-
-  
- <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/Fariawillyan/Fariawillyan/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/Fariawillyan/Fariawillyan/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a></p>
 
 
 <!---
