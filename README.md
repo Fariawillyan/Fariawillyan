@@ -1,34 +1,16 @@
 
 
-<div dir="auto" align="center">
-<img src="https://media.tenor.com/t8BoinVLwzAAAAAi/raf-rafs.gif" style="max-width: 100%;" height="50em">
-
-  
+<div dir="auto" align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=System.out.println(%22Willyan+Faria%22)" alt="Typing SVG" /></a>
+<img src="https://media.tenor.com/t8BoinVLwzAAAAAi/raf-rafs.gif" style="max-width: 100%;" height="50em">  
 <a target="_blank" href="https://www.linkedin.com/in/fariawillyan/">  
   <img align="auto" alt="LinkdeIN" width="40px" src="https://img.icons8.com/fluency/50/000000/linkedin.png"/>
 </a>
-
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5535997144407">
-  <img align="auto" alt="Whatsapp" width="40px" src="https://img.icons8.com/color/48/000000/whatsapp--v3.png"/>
-</a>
-                                                                                                                      
-<a target="_blank" href="https://www.instagram.com/fariawillyan/">
-  <img align="auto" alt="Instagram" width="40px"  src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
-</a>
-
-<a target="_blank" href="mailto:fariawillyan@gmail.com">
-  <img align="auto" alt="Gmail" width="40px"  src="https://img.icons8.com/color/48/000000/gmail-login.png"/>
-</a>  
-
-
-
 </div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=System.out.println(%22Willyan+Faria%22)" alt="Typing SVG" /></a>
+---
 
-
-<div>                                                                                                               
-
+<div>                                                                                                   
   
 <div dir="auto" align="center">
    <p>Software Developer Enthusiast and an open source contributor in Brazil. 
@@ -50,7 +32,7 @@
        
  </div>
   
-  
+  ---
   
   
 <div dir="auto" align="center">
@@ -70,7 +52,7 @@
   
  </a></div>
  
- 
+ ---
 
 <table width="320px" align="center">
     <tbody>
