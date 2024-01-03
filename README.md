@@ -1,5 +1,3 @@
-
-
 <div dir="auto" align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=System.out.println(%22Willyan+Faria%22)" alt="Typing SVG" /></a>
 <img src="https://media.tenor.com/t8BoinVLwzAAAAAi/raf-rafs.gif" style="max-width: 100%;" height="50em">  
