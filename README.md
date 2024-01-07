@@ -13,13 +13,13 @@ Hello! I am an enthusiastic developer with a solid foundation in various technol
 
 ## Skills
 
-- **Main Programming Language:** Java
-- **Other Programming Languages:** C++, SQL
-- **Problem-Solving Skills:** Ability to analyze and fix problems in projects focused on the back end.
-- **Frameworks:** SpringBoot, Angular
-- **SQL Databases:** MySQL, Informix
-- **Operating Systems:** Linux, Windows
-- **IDEs:** Intellij, Visual Studio Code
+- **Main Programming Language:** Java.
+- **Other Programming Languages:** C++, SQL.
+- **Problem-Solving Skills:** Ability to analyze and resolve issues in full-stack projects, with a specific focus on the back end.
+- **Frameworks:** SpringBoot, Angular.
+- **SQL Databases:** MySQL, Informix.
+- **Operating Systems:** Linux, Windows.
+- **IDEs:** Intellij, Visual Studio Code.
 
 ## Experience
 
@@ -55,10 +55,24 @@ I am always seeking interesting challenges and new opportunities to expand my kn
     <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   </a>
 
-   <!-- Linguagem de Programação -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <!-- Desenvolvimento Fullstack -->
+  <a href="https://angular.io/" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
   </a>
+
+   <!-- Frameworks -->
+  <a href="https://spring.io/" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Framework">
+  </a>
+  
+<!-- Testes -->
+<a href="https://junit.org/" target="_blank" rel="noopener noreferrer nofollow">
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit">
+</a>
+
+<a href="https://site.mockito.org/" target="_blank" rel="noopener noreferrer nofollow">
+  <img src="https://img.shields.io/badge/Mockito-DA3832?style=for-the-badge&logo=mockito&logoColor=white" alt="Mockito">
+</a>
 
   <a href="https://www.ibm.com/products/informix" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/Informix-FF0000?style=for-the-badge&logo=ibm&logoColor=white" alt="Informix">
@@ -66,20 +80,6 @@ I am always seeking interesting challenges and new opportunities to expand my kn
 
   <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  </a>
-
-  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  </a>
-
-  <!-- Frameworks -->
-  <a href="https://spring.io/" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Framework">
-  </a>
-
-  <!-- Desenvolvimento Fullstack -->
-  <a href="https://angular.io/" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
   </a>
 
   <!-- DevOps -->
