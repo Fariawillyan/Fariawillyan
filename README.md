@@ -1,6 +1,6 @@
 <div dir="auto" align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=System.out.println(%22Welcome%22)" alt="Typing SVG" />  
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Stream.generate(() -> (%22Welcome%22))" alt="Typing SVG" />  
   <a target="_blank" href="https://www.linkedin.com/in/fariawillyan/">
     <img align="right"  alt="LinkedIn" width="40px" src="https://img.icons8.com/fluency/50/000000/linkedin.png" />
   </a>
